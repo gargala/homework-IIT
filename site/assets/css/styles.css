@@ -1,0 +1,37 @@
+
+.uni_frame{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0;
+}
+.perevertish{
+    transform: rotate(180deg);
+}
+.home_frame{
+    position: absolute;
+    top: 300px;
+    left: 450px;
+}
+.images{
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
+.audio1{
+    position: absolute;
+    top: 350px;
+    left: 600px;
+}
+.audio2{
+    position: absolute;
+    top: 420px;
+    left: 600px;
+}
+.video_frame{
+    position: absolute;
+    left: 480px;
+    top: 250px;
+}
+.priv{
+    font-size: 100px;
+}
